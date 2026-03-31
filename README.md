@@ -1,29 +1,34 @@
 # Analysis of Loan Repayment Terms of Different Banks Using Excel
 
-## Overview
+## Proje Amacı
 
-This project provides a comparative analysis of loan repayment plans for the same loan amount taken from different banks. In today's financial landscape, both individuals and businesses frequently utilize bank loans to meet their financial needs. However, banks vary significantly in terms of interest rates, total repayment amounts, additional charges, and annual cost rates. Therefore, choosing the most suitable loan option is essential for borrowers.
+Bu projede, aynı tutarda çekilen bir kredinin farklı bankalardaki geri ödeme planları karşılaştırmalı olarak analiz edilmiştir. Bankalar arasında faiz oranı, toplam geri ödeme tutarı ve ek maliyetler açısından önemli farklar bulunduğundan, doğru kredi seçimi finansal açıdan kritik bir konudur.
 
-## Methodology
+## İş Değeri / İşe Katkı
 
-In this project, repayment plans for a 100,000 TL loan with a 24-month term were created using Excel. Financial functions such as PMT were used to calculate:
+Bu çalışma, kredi tekliflerinin yalnızca faiz oranına göre değil, toplam maliyet üzerinden değerlendirilmesi gerektiğini göstermektedir.
+Hazırlanan analiz, finansal karar süreçlerini destekleyen basit ve anlaşılır bir karşılaştırma modeli sunmaktadır.
 
-- Monthly installment amounts  
-- Interest payments  
-- Principal repayments  
-- Total repayment amounts  
+## Kullanılan Araçlar
 
-Additional charges like taxes (KKDF, BSMV) were also considered for each bank.
+- Microsoft Excel
+- PMT ve diğer finansal formüller 
 
-## Result
+## Yapılan Çalışmalar
 
-This analysis helped to identify significant differences in loan costs among different banks. As a result, the most advantageous loan option was determined. This project can guide users in making more informed financial decisions when comparing loan offers.
+- 100.000 TL tutarında ve 24 ay vadeli kredi senaryosu oluşturuldu
+- Aylık taksit tutarları hesaplandı
+- Faiz ve ana para dağılımları ayrıştırıldı
+- Toplam geri ödeme tutarları karşılaştırıldı
+- KKDF ve BSMV gibi ek maliyetler analize dahil edildi
+- Bankalar arası karşılaştırmalı tablolar ve grafikler oluşturuldu
 
-## Tools Used
+## Öne Çıkan Bulgular
 
-- Microsoft Excel  
-- PMT and other financial formulas
+- Faiz oranı tek başına kredi maliyetini değerlendirmek için yeterli değildir
+- Aynı tutar ve vadede farklı bankalar arasında ciddi maliyet farkları oluşmaktadır
+- Toplam geri ödeme tutarı, en doğru karşılaştırma kriteridir
 
-Note: The Excel file used for the analysis (including formulas and details) has not been included in this public repository. It can be shared via a Google Drive link upon request to interested employers.
 
-Not: Analizlerde kullanılan Excel dosyası (formüller ve ayrıntılar) public repoya eklenmemiştir. İlgilenen işverenlerle talep üzerine Google Drive linki üzerinden paylaşabilirim.
+Not: Analizde kullanılan Excel dosyası (formüller ve detaylı hesaplamalar dahil) public repoya eklenmemiştir.
+İlgilenen işverenlerle talep üzerine Google Drive linki üzerinden paylaşabilirim.
